@@ -22,11 +22,9 @@ Huang1220/Huang1220 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-| --- | ----- | ------ |
 |  | Questions | Answers |
 | --- | ----- | ------ |
 | 1 | 为什么没有太多项目？ | 因为大部分都是私有的。 |
-| --- | ----- | ------ |
 
 ### 🛠 我使用的技术
 
