@@ -6,7 +6,7 @@
 - 💗 我喜欢什么？你可以猜猜，至少包括但不限于写程序和抓头发
 - 🎲 擅于写python程序，有困难可以找我哦，虽然并不是一直在线
 - 🎃 近期在摆烂
-- 📫 联系我：邮箱: 2321447267@qq.com
+- 📫 联系我：邮箱: 2321447267@qq.com; gfhuang1220@gmail.com
 
 ---
 ### EN
@@ -15,7 +15,7 @@
 - 👀 I’m interested in creating
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on None
-- 📫 How to reach me 2321447267@qq.com
+- 📫 How to reach me 2321447267@qq.com; gfhuang1220@gmail.com
 
 <!---
 Huang1220/Huang1220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
