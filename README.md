@@ -1,42 +1,9 @@
-# 你好 (Hello)
----
-### 简体中文
+<!-- Huang1220的主页 -->
 
-- ✨ 你好，我的网名是中子星（密度超超超超超级大的星体），可能我很吸引人，但是似乎并没有那么吸引人。
-- 💗 我喜欢什么？你可以猜猜，至少包括但不限于写程序和抓头发
-- 🎲 擅于写python程序，有困难可以找我哦，虽然并不是一直在线
-- 🎃 近期在摆烂
-- 📫 联系我：邮箱: 2321447267@qq.com; gfhuang1220@gmail.com
+<p align="center">
+<a href="https://github.com/Huang1220"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0043F7&center=true&vCenter=true&random=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFNeutron+Star%EF%BC%81;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81;%E4%B8%80%E8%B5%B7%E7%94%A8%E4%BB%A3%E7%A0%81%E5%88%9B%E9%80%A0%E4%B8%96%E7%95%8C%EF%BC%81;%E8%81%94%E7%B3%BB%E6%88%91%EF%BC%8C%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%90%A7%EF%BC%81" alt="Typing SVG" /></a>
+</p>
 
----
-### EN
-
-- 👋 Hi, I’m @GFHuang1220
-- 👀 I’m interested in creating
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on None
-- 📫 How to reach me 2321447267@qq.com; gfhuang1220@gmail.com
-
-<!---
-Huang1220/Huang1220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-|  | Questions | Answers |
-| --- | ----- | ------ |
-| 1 | 为什么没有太多项目？ | 因为大部分都是私有的。 |
-
-### 🛠 我使用的技术
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-
-### ⚙️ GitHub 分析
-| <a href="https://github.com/Huang1220"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Huang1220&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"/></a> | <a href="https://github.com/Huang1220?tab=repositories"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Huang1220&layout=compact&langs_count=8&theme=buefy&hide_border=true&hide_border=true"/></a>| 
-| ------------- | ------------- |
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F70A0A&center=true&vCenter=true&random=true&width=435&lines=%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81%E8%B7%91%E5%BE%97%E6%AF%94%E6%88%91%E7%9A%84%E7%8C%AB%E8%BF%98%E5%BF%AB%EF%BC%8C%E4%BD%86%E5%AE%83%E6%80%BB%E6%98%AF%E6%92%9E%E4%B8%8A%E5%A2%99%EF%BC%88Bug%EF%BC%89%E3%80%82;%E6%88%91%E7%9A%84%E7%A1%AC%E4%BB%B6%E6%98%AF%E2%80%9C%E5%8D%B3%E6%8F%92%E5%8D%B3%E7%94%A8%E2%80%9D%EF%BC%8C%E4%BD%86%E2%80%9C%E7%94%A8%E2%80%9D%E7%9A%84%E6%97%B6%E5%80%99%E5%AE%83%E6%80%BB%E5%9C%A8%E2%80%9C%E6%8F%92%E2%80%9D%E6%88%91%E5%BF%83%E6%80%81%E3%80%82;%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%8F%E5%91%98%E5%88%86%E4%B8%8D%E6%B8%85%E4%B8%87%E5%9C%A3%E8%8A%82%E5%92%8C%E5%9C%A3%E8%AF%9E%E8%8A%82%EF%BC%9F%E5%9B%A0%E4%B8%BA+Oct+31+%3D+Dec+25%EF%BC%81...%E7%AD%89%E7%AD%89%EF%BC%8C%E6%88%91%E7%9A%84%E7%BC%96%E8%AF%91%E5%99%A8%E8%AF%B4%E8%BF%99%E4%B8%8D%E6%88%90%E7%AB%8B%EF%BC%9F;%E6%88%91%E7%9A%84+main()+%E5%87%BD%E6%95%B0%E9%87%8C%E4%BD%8F%E7%9D%80%E4%B8%80%E5%8F%AA%E8%96%9B%E5%AE%9A%E8%B0%94%E7%9A%84%E7%8C%AB%EF%BC%8C%E7%9B%B4%E5%88%B0%E6%88%91%E8%BF%90%E8%A1%8C%E6%89%8D%E7%9F%A5%E9%81%93%E5%AE%83%E6%AD%BB%E6%B2%A1%E6%AD%BB%EF%BC%88%E7%A8%8B%E5%BA%8F%E5%B4%A9%E6%B2%A1%E5%B4%A9%EF%BC%89%E3%80%82;%E6%88%91%E7%9A%84%E9%94%AE%E7%9B%98%E6%B2%B9%E5%85%89%E9%94%83%E4%BA%AE%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%8B%A4%E5%BF%AB%EF%BC%8C%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%86%AC%E5%A4%9C%E5%A4%AA%E5%A4%9A%EF%BC%8C%E8%84%B8%E8%B9%AD%E7%9A%84%E3%80%82;%E6%88%91%E7%9A%84Wi-Fi%E4%BF%A1%E5%8F%B7%E5%BC%BA%E5%BA%A6%EF%BC%8C%E5%8F%96%E5%86%B3%E4%BA%8E%E6%88%91%E6%B3%A1%E5%92%96%E5%95%A1%E6%97%B6%E7%9A%84%E8%99%94%E8%AF%9A%E7%A8%8B%E5%BA%A6%E3%80%82;%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE%E8%AF%BB%E8%B5%B7%E6%9D%A5%E5%83%8F%E5%A4%A9%E4%B9%A6%EF%BC%8C%E4%BD%86%E6%88%91%E7%AD%BE%E7%9A%84%E6%97%B6%E5%80%99%E6%84%9F%E8%A7%89%E5%83%8F%E5%9C%A8%E5%8F%AC%E5%94%A4%E5%85%8B%E8%8B%8F%E9%B2%81%E3%80%82;%E6%88%91%E7%9A%84TODO%E5%88%97%E8%A1%A8%EF%BC%8C%E6%98%AF%E5%94%AF%E4%B8%80%E6%AF%94%E6%88%91%E4%BB%A3%E7%A0%81%E6%9B%B4%E9%95%BF%E7%9A%84%E4%B8%9C%E8%A5%BF%E3%80%82;%E8%B0%83%E8%AF%95%E6%97%B6%EF%BC%8C%E6%88%91%E5%AF%B9%E7%9D%80%E6%98%BE%E7%A4%BA%E5%99%A8%E5%93%88%E6%B0%94%EF%BC%8C%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%A0%B7%E8%83%BD%E7%BB%99CPU%E9%99%8D%E6%B8%A9%E3%80%82;%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E7%9A%84%E7%A8%8B%E5%BA%8F%E9%9C%80%E8%A6%81%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BE%9D%E8%B5%96%EF%BC%9F%E5%9B%A0%E4%B8%BA%E5%AE%83%E5%BE%88%E2%80%9C%E7%A4%BE%E6%81%90%E2%80%9D%EF%BC%8C%E7%A6%BB%E4%B8%8D%E5%BC%80%E6%9C%8B%E5%8F%8B%EF%BC%88%E5%BA%93%EF%BC%89%E3%80%82;%E6%88%91%E7%9A%84IDE%E6%8F%90%E7%A4%BA%E5%86%85%E5%AD%98%E4%B8%8D%E8%B6%B3%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E5%A4%AA%E5%8D%A0%E7%A9%BA%E9%97%B4%E3%80%82;%E6%88%91%E7%9A%84Git%E5%8E%86%E5%8F%B2%EF%BC%8C%E6%98%AF%E4%B8%80%E9%83%A8%E7%94%B1fix+typo%E5%92%8Crevert+revert%E7%BB%84%E6%88%90%E7%9A%84%E5%8F%B2%E8%AF%97%E3%80%82;%E5%86%99%E6%96%87%E6%A1%A3%E7%9A%84%E6%97%B6%E9%97%B4%EF%BC%8C%E6%B0%B8%E8%BF%9C%E6%98%AF%E6%88%91%E2%80%9C%E4%B8%8D%E5%B0%8F%E5%BF%83%E2%80%9D%E5%85%B3%E6%8E%89IDE%E7%9A%84%E6%97%B6%E5%80%99%E3%80%82;%E6%88%91%E7%9A%84%E7%94%B5%E8%84%91%E9%A3%8E%E6%89%87%E5%A3%B0%EF%BC%8C%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%8A%A8%E5%90%AC%E7%9A%84%E7%99%BD%E5%99%AA%E9%9F%B3...%E6%89%8D%E6%80%AA%EF%BC%8C%E5%90%B5%E6%AD%BB%E4%BA%86%EF%BC%81;npm+install+%E7%9A%84%E6%97%B6%E9%97%B4%EF%BC%8C%E8%B6%B3%E5%A4%9F%E6%88%91%E9%87%8D%E5%86%99%E6%95%B4%E4%B8%AA%E9%A1%B9%E7%9B%AE%EF%BC%88%E7%90%86%E8%AE%BA%E4%B8%8A%EF%BC%89%E3%80%82;%E6%88%91%E7%9A%84%2Ftmp%E7%9B%AE%E5%BD%95%EF%BC%8C%E6%98%AF%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E7%9A%84%E6%94%B6%E5%AE%B9%E6%89%80%EF%BC%8C%E4%BB%80%E4%B9%88%E6%96%87%E4%BB%B6%E9%83%BD%E6%95%A2%E5%BE%80%E9%87%8C%E5%A1%9E%E3%80%82;%E7%BC%96%E8%AF%91%E6%88%90%E5%8A%9F%E6%97%B6%E7%9A%84%E5%96%9C%E6%82%A6%EF%BC%8C%E7%BA%A6%E7%AD%89%E4%BA%8E%E5%8F%91%E7%8E%B0%E5%86%B0%E7%AE%B1%E9%87%8C%E8%BF%98%E6%9C%89%E6%9C%80%E5%90%8E%E4%B8%80%E7%93%B6%E5%8F%AF%E4%B9%90%E3%80%82;%E6%88%91%E7%9A%84~%2F.bashrc+%E6%96%87%E4%BB%B6%EF%BC%8C%E9%95%BF%E5%BE%97%E5%83%8F%E3%80%8A%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC%E3%80%8B%E7%9A%84%E5%AE%B6%E8%B0%B1%E3%80%82;%E6%8A%A5%E9%94%99%E4%BF%A1%E6%81%AF%E8%AF%B4%E2%80%9CSegmentation+fault%E2%80%9D%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E5%AE%83%E6%98%AF%E5%9C%A8%E8%AF%84%E4%BB%B7%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%84%E5%88%92%E3%80%82;%E6%88%91%E7%9A%84%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98%E8%BD%B4%E4%BD%93%EF%BC%8C%E5%8F%91%E5%87%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%E8%83%BD%E8%AE%A9%E6%A5%BC%E4%B8%8B%E9%82%BB%E5%B1%85%E6%8A%A5%E8%AD%A6%EF%BC%88%E8%AF%AF%EF%BC%89%E3%80%82;%E2%80%9C%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD%E6%98%8E%E5%A4%A9%E5%B0%B1%E8%83%BD%E5%A5%BD%EF%BC%81%E2%80%9D+%E2%80%94%E2%80%94+%E6%9D%A5%E8%87%AA%E4%B8%8A%E5%91%A8%E7%9A%84%E6%88%91%E3%80%82;%E6%88%91%E7%9A%84%2Fetc%2Fpasswd%E6%96%87%E4%BB%B6%EF%BC%8C%E8%AE%B0%E5%BD%95%E4%BA%86%E6%89%80%E6%9C%89%E6%9B%BE%E7%BB%8F%E7%99%BB%E5%BD%95%E8%BF%87%E8%BF%99%E5%8F%B0%E6%9C%BA%E5%99%A8%E7%9A%84%E7%81%B5%E9%AD%82%EF%BC%88UID%EF%BC%89%E3%80%82;%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%8F%E5%91%98%E5%96%9C%E6%AC%A2%E6%9A%97%E8%89%B2%E4%B8%BB%E9%A2%98%EF%BC%9F%E5%9B%A0%E4%B8%BA%E5%85%89%E4%BC%9A%E4%BC%A4%E5%AE%B3%E6%88%91%E4%BB%AC%E8%8B%8D%E7%99%BD%E7%9A%84%E7%9A%AE%E8%82%A4%E5%92%8C%E6%95%8F%E6%84%9F%E7%9A%84%E7%81%B5%E9%AD%82%E3%80%82;%E6%8A%8A%E4%BB%A3%E7%A0%81%E6%8E%A8%E5%88%B0%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E5%89%8D%EF%BC%8C%E6%88%91%E9%83%BD%E8%A6%81%E5%85%88%E6%8B%9C%E4%B8%80%E6%8B%9C%E9%94%AE%E7%9B%98%E4%B8%8A%E7%9A%84F1%E9%94%AE%E3%80%82;%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84Issue%E5%8C%BA%EF%BC%8C%E6%98%AF%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E4%B8%8E%E7%8E%B0%E5%AE%9Ebug%E7%9A%84%E8%A7%92%E6%96%97%E5%9C%BA%E3%80%82;%E6%88%91%E7%9A%84%24PATH%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%EF%BC%8C%E6%98%AF%E4%B8%80%E5%BC%A0%E9%80%9A%E5%BE%80%E6%9C%AA%E7%9F%A5%E9%A2%86%E5%9F%9F%E7%9A%84%E8%97%8F%E5%AE%9D%E5%9B%BE%EF%BC%88%E7%BB%8F%E5%B8%B8%E8%BF%B7%E8%B7%AF%EF%BC%89%E3%80%82;%E5%86%99%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%EF%BC%9F%E7%AD%89%E6%88%91%E6%8A%8A%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD...+%E5%92%A6%EF%BC%8C%E7%94%A8%E6%88%B7%E6%80%8E%E4%B9%88%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%94%A8%E4%BA%86%EF%BC%9F;%E6%88%91%E7%9A%84%E5%B1%8F%E5%B9%95%E6%8A%A4%E7%9C%BC%E6%A8%A1%E5%BC%8F%EF%BC%8C%E8%B0%83%E5%BE%97%E5%86%8D%E6%9A%96%E4%B9%9F%E6%9A%96%E4%B8%8D%E4%BA%86%E6%88%91%E5%86%B0%E5%86%B7%E7%9A%84%E5%BF%83%EF%BC%88Deadline%E5%89%8D%EF%BC%89%E3%80%82;Ctrl%2BC%2C+Ctrl%2BV+%E6%98%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%AF%8D%E8%AF%AD%EF%BC%8CCtrl%2BZ+%E6%98%AF%E5%90%8E%E6%82%94%E8%8D%AF%E3%80%82;%E6%8A%A5%E9%94%99%E8%AF%B4%E2%80%9CPermission+denied%E2%80%9D%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9C%A8%E5%AD%A6%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E8%AF%B4%E8%AF%9D%E3%80%82" alt="Typing SVG" /></a>
+</p>
