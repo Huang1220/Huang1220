@@ -47,11 +47,12 @@
 <div>
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
  <img align="left" width="20%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />
-<span align="center" width="46%"><picture>
+ <picture align="center" width="46%">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
-</picture></span>><img align="right" width="20%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" />
+</picture>
+ <img align="right" width="20%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" />
 </div>
 
 <div>
