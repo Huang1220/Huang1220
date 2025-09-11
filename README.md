@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<div width="100%">
+<div>
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
  <img position="absolute" align="left" width="150px" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />
  <picture align="center">
