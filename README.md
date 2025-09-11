@@ -29,8 +29,6 @@
 <p align="center"><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake.svg"></a></p>
 <p align="center"><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake-dark.svg"></a></p>
 
-<img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/metrics.classic.svg">
-
 </div>
 
 ---
@@ -55,8 +53,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
 </picture></span>
   <a href="https://github.com/Huang1220" align="right" width="150"><img width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" /></a>
-</div></div>
-<img src="https://metrics.lecoq.io/Huang1220?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
+</div>
+
+<img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/classic.svg"></div>
 
 #### 徽章
 <div align="center">
