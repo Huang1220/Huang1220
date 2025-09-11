@@ -24,14 +24,15 @@
 <div align="center">
 <div>
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-  <span align="left" width="150"><img width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" /></span>
+  <a href="https://github.com/Huang1220" align="left" width="150"><img width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" /></a>
 <span align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
 </picture></span>
-  <span align="right" width="150"><img width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" /></span>
+  <a href="https://github.com/Huang1220" align="right" width="150"><img width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" /></a>
 </div></div>
+<img src="https://metrics.lecoq.io/Huang1220?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
 
 #### 徽章
 [![trophy](https://github-profile-trophy.vercel.app/?username=Huang1220&column=-1)](https://github.com/Huang1220#gh-light-mode-only)
@@ -46,3 +47,10 @@
 [![Huang1220's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220)](https://github.com/Huang1220)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3)](https://github.com/Huang1220/sensitive-word-detection)
+
+<table>
+  <tr>
+    <td><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://wakatime.com/share/@Huang1220/97e8c303-755b-4a30-92da-3d778450f13b.svg" width="500" alt="Wakatime"/></a><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://wakatime.com/share/@Huang1220/3636f84a-9764-43ed-8792-d00b28b4f1c4.svg" width="500" alt="Wakatime"/></a></td>
+    <td><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://wakatime.com/share/@Huang1220/94ca53f6-f4f8-4082-ab11-29c0a2244320.svg" width="500" alt="Wakatime"/></a><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://wakatime.com/share/@Huang1220/0b620d39-6b4a-4429-a467-c3e1cea15333.svg" width="500" alt="Wakatime"/></a></td>
+  </tr>
+</table>
