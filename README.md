@@ -26,6 +26,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Huang1220&column=-1)](https://github.com/Huang1220#gh-light-mode-only)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Huang1220&theme=onedark&column=-1)](https://github.com/Huang1220#gh-dark-mode-only)
 
+[![Huang1220's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huang1220&bg_color=f0f0f0)](https://github.com/Huang1220#gh-light-mode-only)
+[![Huang1220's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huang1220&theme=xcode)](https://github.com/Huang1220#gh-dark-mode-only)
+
 |[![Huang1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/Huang1220#gh-light-mode-only)[![Huang1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/Huang1220#gh-dark-mode-only)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10)](https://github.com/Huang1220)|
 |---|---|
 
