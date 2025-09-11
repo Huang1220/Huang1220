@@ -45,16 +45,11 @@
 
 <div align="center">
 
-<div>
+
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
- <img position="absolute" align="left" width="140px" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />
- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
-</picture>
- <img position="absolute" align="right" width="140px" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" />
-</div>
+|<img position="absolute" align="left" width="140px" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />|<picture align="center"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" /></picture>|<img position="absolute" align="right" width="140px" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" />|
+|---|---|---|
+
 
 <div>
 <img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/classic.svg"></div>
