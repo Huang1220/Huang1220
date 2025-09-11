@@ -4,8 +4,9 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
 jobs:
   build:
