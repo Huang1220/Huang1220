@@ -28,6 +28,9 @@
 
 <p align="center"><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake.svg"></a></p>
 <p align="center"><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake-dark.svg"></a></p>
+
+<img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/metrics.classic.svg">
+
 </div>
 
 ---
