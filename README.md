@@ -21,6 +21,18 @@
 
 #### 我使用的工具
 
+<div align="center">
+<div>
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<img align="left" width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
+</picture>
+<img align="right" width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" />
+</div></div>
+
 #### 徽章
 [![trophy](https://github-profile-trophy.vercel.app/?username=Huang1220&column=-1)](https://github.com/Huang1220#gh-light-mode-only)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Huang1220&theme=onedark&column=-1)](https://github.com/Huang1220#gh-dark-mode-only)
