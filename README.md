@@ -48,7 +48,7 @@
 <div width="100%">
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
  <img position="absolute" align="left" width="150px" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />
- <picture align="center" width="46%">
+ <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
