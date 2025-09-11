@@ -46,16 +46,17 @@
 <div align="center">
 <div>
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-  <a href="https://github.com/Huang1220" align="left" width="24%"><img width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" /></a>
-<span align="center" width="50%"><picture>
+ <img align="left" width="20%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />
+<span align="center" width="46%"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
-</picture></span>
-  <a href="https://github.com/Huang1220" align="right" width="24%"><img width="150" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" /></a>
+</picture></span>><img align="right" width="20%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" />
 </div>
 
+<div>
 <img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/classic.svg"></div>
+</div>
 
 #### 徽章
 <div align="center">
