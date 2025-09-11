@@ -18,7 +18,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.classic.svg
+          filename: assets/metrics/classic.svg
           # Options
           user: ${{ github.repository_owner }}
           template: classic
