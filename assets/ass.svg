@@ -1,0 +1,29 @@
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <image 
+    x="0%" 
+    y="50%" 
+    width="23%" 
+    height="80%" 
+    href="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png"
+    transform="translate(0, -40%)">
+  </image>
+  
+  <foreignObject x="25%" y="5%" width="52%" height="90%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&amp;theme=dark&amp;hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&amp;theme=light&amp;hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&amp;theme=dark&amp;hide_border=true" />
+      </picture>
+    </div>
+  </foreignObject>
+  
+  <image 
+    x="79%" 
+    y="50%" 
+    width="23%" 
+    height="80%" 
+    href="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png"
+    transform="translate(0, -40%)">
+  </image>
+</svg>
