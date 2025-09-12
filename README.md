@@ -115,8 +115,8 @@
       </td>
   </tr>
  <tr>
-    <th><a href="source/plugins/topics/README.md">📌 Starred topics</a></th>
-    <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
+    <th>📌 Starred topics</th>
+    <th>🌟 Recently starred repositories</th>
   </tr>
   <tr>
         <td  align="center">
@@ -126,6 +126,23 @@
       </td>
         <td  align="center">
         <img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.stars.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+ <tr>
+    <th>💡 Coding habits and activity</th>
+    <th>🎟️ Follow-up of issues and pull requests</th>
+  </tr>
+ <tr>
+        <td  align="center">
+        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.habits.charts.svg" alt=""></img></details>
+        <details open><summary>Mildly interesting facts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.habits.facts.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Indepth analysis</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.followup.indepth.svg" alt=""></img></details>
+        <details><summary>Created on a user's repositories</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.followup.svg" alt=""></img></details>
+        <details><summary>Created by a user</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.followup.user.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
   </tr>
