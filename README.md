@@ -46,7 +46,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="100" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/others/leijun.jpg" />
+<img align="right" width="120" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/others/leijun.jpg" />
 
 <p>&emsp;&emsp;你好，我是Neutron Star。喜欢编程、摄影、打羽毛球，对软硬件非常感兴趣。</p>
 <p>&emsp;&emsp;喜欢计算机科学和 IT 互联网事业，同时喜欢开源社区氛围，希望能成为一名优秀的开源社区开发者。</p>
@@ -73,14 +73,14 @@
 
 <img align="right" width="70" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/school/NJU.png" />
 
-- [南京大学](https://www.nju.edu.cn/) &emsp; 📌 2024-09-01 -- Now
+- [南京大学](https://www.nju.edu.cn/) &emsp; 📍 江苏·南京 &emsp; 📌 2024-09-01 -- Now
 
   - 学院：地理与海洋科学学院
   - 专业：地理信息(意向)
 
 <img align="right" width="70" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/school/liangfeng.png" />
 
-- [江苏省梁丰高级中学](https://jslfgz.zjgedu.cn/) &emsp; 📌 2021-09-01 -- 2024-06-31
+- [江苏省梁丰高级中学](https://jslfgz.zjgedu.cn/) &emsp; 📍 江苏·张家港 &emsp; 📌 2021-09-01 -- 2024-06-31
 
   - 高考选课：物理-化学-生物
   - 班级：15班(创优班)
