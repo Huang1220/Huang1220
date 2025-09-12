@@ -33,15 +33,35 @@
 
 ---
 
-#### 我使用的技术（部分正在学习）
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat" /></sapn>
+<!-- <span><img src="" /></sapn> -->
 
-#### 我使用的工具
+<span><img src="https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Huawei-FF0000?logo=huawei&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Nvidia-76B900?logo=nvidia&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" /></sapn>
+<span><img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat" /></sapn>
+<!-- <span><img src="" /></sapn> -->
 
 <div align="center">
 
