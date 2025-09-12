@@ -49,7 +49,7 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
                                 <span class="added"> +10.4k</span>
-                                <span class="deleted">   -965</span>
+                                <span class="deleted">   -992</span>
                             </div>
                             <span> </span>
                         </div>
@@ -119,23 +119,23 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,10.233738660490257)">
+                            <g class="tick" opacity="1" transform="translate(0,10.92416242680235)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,36.386990928392215)">
+                            <g class="tick" opacity="1" transform="translate(0,36.93932994144188)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">8.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,62.54024319629417)">
+                            <g class="tick" opacity="1" transform="translate(0,62.95449745608141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">6.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,88.69349546419609)">
+                            <g class="tick" opacity="1" transform="translate(0,88.96966497072093)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,114.84674773209804)">
+                            <g class="tick" opacity="1" transform="translate(0,114.98483248536047)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
@@ -143,29 +143,29 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,167.15325226790193)">
+                            <g class="tick" opacity="1" transform="translate(0,167.01516751463953)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,193.30650453580392)">
+                            <g class="tick" opacity="1" transform="translate(0,193.03033502927906)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,219.45975680370586)">
+                            <g class="tick" opacity="1" transform="translate(0,219.0455025439186)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−6.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,245.6130090716078)">
+                            <g class="tick" opacity="1" transform="translate(0,245.06067005855815)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−8.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,271.76626133950975)">
+                            <g class="tick" opacity="1" transform="translate(0,271.07583757319765)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L394.869,140.5L401.459,140.5L408.049,140.5L441,140.5L441,5L408.049,137.244L401.459,140.435L394.869,115.537L39,101.924Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L394.869,140.5L401.459,140.5L408.049,140.5L441,140.5L441,152.818L408.049,141.115L401.459,140.526L394.869,141.128L39,140.801Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L394.869,140.5L401.459,140.5L408.049,140.5L441,140.5L441,5L408.049,137.261L401.459,140.435L394.869,115.669L39,102.128Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L394.869,140.5L401.459,140.5L408.049,140.5L441,140.5L441,153.104L408.049,141.111L401.459,140.526L394.869,141.124L39,140.799Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
