@@ -460,8 +460,15 @@ jobs:
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2023
-          plugin_skyline_frames: 6
+          plugin_skyline_frames: 120
           plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://skyline.github.com/${login}/${year}",
+              "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+              "wait": 1,
+              "hide": "button, footer, a"
+            }
 
       - name: Generate GitHub Skyline (GitHub City)
         uses: lowlighter/metrics@latest
@@ -471,7 +478,7 @@ jobs:
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2023
-          plugin_skyline_frames: 6
+          plugin_skyline_frames: 120
           plugin_skyline_quality: 1
           plugin_skyline_settings: |
             {
