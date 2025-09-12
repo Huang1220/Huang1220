@@ -35,7 +35,8 @@
 
 </div>
 
----
+<!-- ### 分割线 ### -->
+<img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
  <div align="center">
 
@@ -73,7 +74,8 @@
 
 </div>
 
----
+<!-- ### 分割线 ### -->
+<img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
 ### 📊 WakaTime
 
@@ -144,7 +146,8 @@ Windows                  16 hrs 46 mins      ███████████�
 </td></tr>
 </table>
 
----
+<!-- ### 分割线 ### -->
+<img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
 <div align="center">
 
@@ -183,8 +186,14 @@ Windows                  16 hrs 46 mins      ███████████�
   </tr>
 </table>
 
+<!-- ### 分割线 ### -->
+<img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
+
 <td><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/profile-3d-contrib/profile-gitblock.svg" alt=""></img></a></td>
 <td><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/profile-3d-contrib/profile-night-rainbow.svg" alt=""></img></a></td>
+
+<!-- ### 分割线 ### -->
+<img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
 <table>
  <tr>
