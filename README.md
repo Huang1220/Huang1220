@@ -79,3 +79,22 @@
     <td><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://wakatime.com/share/@Huang1220/94ca53f6-f4f8-4082-ab11-29c0a2244320.svg" width="500" alt="Wakatime"/></a><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://wakatime.com/share/@Huang1220/0b620d39-6b4a-4429-a467-c3e1cea15333.svg" width="500" alt="Wakatime"/></a></td>
   </tr>
 </table>
+
+<table>
+ <tr>
+    <th>📅 Isometric commit calendar</th>
+    <th>🈷️ Languages activity</th>
+ </tr>
+ <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.isocalendar.fullyear.svg" alt=""></img></details>
+<!--         <details><summary>Half year calendar</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.isocalendar.svg" alt=""></img></details> -->
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.languages.indepth.svg" alt=""></img></details>
+        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.languages.recent.svg" alt=""></img></details>
+        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.languages.svg" alt=""></img></details>
+        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.languages.details.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+</table>
