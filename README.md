@@ -163,4 +163,50 @@
         <img width="900" height="1" alt="">
       </td>
   </tr>
+ <tr>
+    <th>💝 GitHub Sponsorships</th>
+    <th>💕 GitHub Sponsors</th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.sponsorships.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>GitHub sponsors card</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.sponsors.svg" alt=""></img></details>
+        <details><summary>GitHub sponsors full introduction</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.sponsors.full.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+ <tr>
+    <th>📓 Featured repositories</th>
+    <th>💬 Discussions</th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <details open><summary>Featured</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.repositories.svg" alt=""></img></details>
+        <details><summary>Pinned</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.repositories.pinned.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.discussions.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+ <tr>
+    <th>💫 Star lists</th>
+    <th>📆 Commit calendar</th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <details open><summary>Repositories from star lists</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.starlists.svg" alt=""></img></details>
+        <details open><summary>Languages from star lists</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.starlists.languages.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details><summary>Current year</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.calendar.svg" alt=""></img></details>
+        <details open><summary>Full history</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.calendar.full.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
 </table>
