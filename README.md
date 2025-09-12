@@ -65,6 +65,8 @@
 <span><img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat" /></sapn>
 <!-- <span><img src="" /></sapn> -->
 
+<img src="https://skillicons.dev/icons?i=ae,anaconda,apple,arduino,au,c,cpp,cs,clion,cloudflare,cmake,css,django,docker,fastapi,gcp,git,github,gitlab,gmail,go,gtk,html,ai,java,js,jquery,kali,linux,md,matlab,mysql,nginx,nodejs,npm,opencv,ps,php,powershell,pr,pycharm,py,pytorch,qt,raspberrypi,sqlite,stackoverflow,sklearn,selenium,svg,tensorflow,twitter,ts,ubuntu,unity,visualstudio,vscode,vue,webstorm,windows,wordpress&perline=16" />
+
 </div>
 
 <div align="center">
