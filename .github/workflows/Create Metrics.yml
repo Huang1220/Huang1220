@@ -263,4 +263,241 @@ jobs:
           plugin_people_size: 64
           plugin_people_types: sponsored
 
-      
+      - name: Generate GitHub Sponsorships 
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.sponsorships.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_sponsorships_size: 64
+          plugin_sponsorships: yes
+
+      - name: Generate GitHub Sponsors (Sponsors goal)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list
+          plugin_sponsors_past: yes
+
+      - name: Generate GitHub Sponsors (Sponsors introduction)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.sponsors.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_sponsors: yes
+
+      - name: Generate Featured repositories (Featured repositories)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: Huang1220/sensitive-word-detection
+
+      - name: Generate Featured repositories (Pinned repositories)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.repositories.pinned.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
+
+      - name: Generate Discussions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.discussions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
+
+      - name: Generate Star lists (Featured star list)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.starlists.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_only: Useful
+
+      - name: Generate Star lists (Featured star list languages)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.starlists.languages.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 0
+          plugin_starlists_only: Useful
+
+      - name: Generate Commit calendar (Current year calendar)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+
+      - name: Generate Commit calendar (Full history calendar)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
+      - name: Generate Achievements (Detailed display)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+
+      - name: Generate Achievements (Compact display)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X 
+
+      - name: Generate Notable contributions (Contributions)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+
+      - name: Generate Notable contributions (Indepth analysis)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.notable.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
+      - name: Generate Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+      - name: Generate Repositories traffic
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_traffic: yes
+
+      - name: Generate Random code snippet
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript, python, c, c++, java
+          plugin_code_load: 400
+
+      - name: Generate Gists
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.gists.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_gists: yes
+
+      # - name: Generate GitHub projects
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: assets/metrics/plugin.projects.svg
+      #     token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+      #     base: ""
+      #     plugin_projects: yes
+      #     plugin_projects_repositories: Huang1220/Huang1220/projects/1
+      #     plugin_projects_descriptions: yes
+
+      - name: Generate Introduction (Organization introduction）
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: github
+          base: header
+          plugin_introduction: yes
+
+      - name: Generate GitHub Skyline (GitHub Skyline)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2023
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
+
+      - name: Generate GitHub Skyline (GitHub City)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.skyline.city.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2023
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
+
+      - name: Generate WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+      - name: Generate 16personalities
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.16personalities.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
