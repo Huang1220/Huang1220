@@ -38,6 +38,62 @@
 <!-- ### 分割线 ### -->
 <img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="100" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/others/leijun.jpg" />
+
+<p>&emsp;&emsp;你好，我是Neutron Star。喜欢编程、摄影、打羽毛球，对软硬件非常感兴趣。</p>
+<p>&emsp;&emsp;喜欢计算机科学和 IT 互联网事业，同时喜欢开源社区氛围，希望能成为一名优秀的开源社区开发者。</p>
+<p>&emsp;&emsp;如右图所示，我的偶像是雷军，一方面我想创业，另一方面我沉迷于技术。</p>
+<p>&emsp;&emsp;通过代码复用与可扩展架构，我们共同创造更美好的世界。</p>
+<p>&emsp;&emsp;<strong>Through code reuse and scalable architecture, we collectively build a brighter future.</strong></p>
+<img width="1800" height="1" alt="">
+</td></tr>
+
+<tr><td>
+
+### 🏢 Work Experience
+
+&emsp;&emsp;暂无
+<!-- for beauty 留个空行 -->
+  <div>&nbsp;</div>
+
+
+</td></tr>
+
+<tr><td>
+
+### 📃 Study Experience
+
+<img align="right" width="70" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/school/NJU.png" />
+
+- [南京大学](https://www.nju.edu.cn/) &emsp; 📌 2024-09-01 -- Now
+
+  - 学院：地理与海洋科学学院
+  - 专业：地理信息(意向)
+
+<img align="right" width="70" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/school/liangfeng.png" />
+
+- [江苏省梁丰高级中学](https://jslfgz.zjgedu.cn/) &emsp; 📌 2021-09-01 -- 2024-06-31
+
+  - 高考选课：物理-化学-生物
+  - 班级：15班(创优班)
+
+<!-- for beauty 留个空行 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+</table>
+
+<!-- ### 分割线 ### -->
+<img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
+
  <div align="center">
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /></sapn>
