@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "*/5 * * * *"}]
+  schedule: [{cron: "*/20 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -132,7 +132,7 @@ jobs:
       - name: Generate Starred topics (Labels)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.svg
+          filename: assets/metrics/plugin.topics.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -140,9 +140,127 @@ jobs:
       - name: Generate Starred topics (Icons)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: assets/metrics/plugin.topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+      - name: Generate Recently starred repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+      - name: Generate Coding habits and activity (Mildly interesting facts)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Europe/Paris
+
+      - name: Generate Coding habits and activity (Recent activity charts)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Europe/Paris
+
+      - name: Generate Follow-up of issues and pull requests (Opened on user's repositories)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.followup.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+
+      - name: Generate Follow-up of issues and pull requests (Opened by user)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.followup.user.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+
+      - name: Generate Follow-up of issues and pull requests (Indepth analysis)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.followup.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+
+      - name: Generate Follow-up of issues and pull requests (Exclude Archived)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.followup.archived.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_archived: no
+
+      - name: Generate Comment reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 500
+          plugin_reactions_details: percentage
+
+      - name: Generate People (Followers)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.people.followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_size: 64
+          plugin_people_types: followers
+
+      - name: Generate People (Followed)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.people.followered.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_size: 64
+          plugin_people_types: followed
+
+      - name: Generate People (Sponsors)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.people.sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_size: 64
+          plugin_people_types: sponsors
+
+      - name: Generate People (Sponsored)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics/plugin.people.sponsored.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_size: 64
+          plugin_people_types: sponsored
+
+      
