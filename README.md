@@ -146,4 +146,21 @@
         <img width="900" height="1" alt="">
       </td>
   </tr>
+ <tr>
+    <th>🎭 Comment reactions</th>
+    <th>🧑‍🤝‍🧑 People</th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.reactions.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Followers</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.people.followers.svg" alt=""></img></details>
+        <details open><summary>Followed</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.people.followered.svg" alt=""></img></details>
+        <details><summary>Sponsors</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.people.sponsors.svg" alt=""></img></details>
+        <details><summary>Sponsored</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/plugin.people.sponsored.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
 </table>
