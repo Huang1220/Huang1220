@@ -33,6 +33,8 @@
 
 ---
 
+ <div align="center">
+
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" /></sapn>
@@ -62,6 +64,8 @@
 <span><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat" /></sapn>
 <!-- <span><img src="" /></sapn> -->
+
+</div>
 
 <div align="center">
 
