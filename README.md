@@ -226,12 +226,24 @@ Windows                  16 hrs 46 mins      ███████████�
 [![Huang1220's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huang1220&bg_color=f0f0f0)](https://github.com/Huang1220#gh-light-mode-only)
 [![Huang1220's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huang1220&theme=xcode)](https://github.com/Huang1220#gh-dark-mode-only)
 
-|[![Huang1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/Huang1220#gh-light-mode-only)[![Huang1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/Huang1220#gh-dark-mode-only)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10)](https://github.com/Huang1220)|
+|[![Huang1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Huang1220#gh-light-mode-only)[![Huang1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/Huang1220#gh-dark-mode-only)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10)](https://github.com/Huang1220#gh-light-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10&theme=tokyonight)](https://github.com/Huang1220#gh-dark-mode-only)|
 |---|---|
 
-[![Huang1220's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220)](https://github.com/Huang1220)
+<div>
+<a href="https://github.com/Huang1220">
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220&theme=tokyonight" height="225px" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220" />
+ </picture></a></div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3)](https://github.com/Huang1220/sensitive-word-detection)
+<div>
+<a href="https://github.com/Huang1220/sensitive-word-detection">
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3&theme=tokyonight" height="225px" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3" />
+ </picture></a></div>
 
 </div>
 
