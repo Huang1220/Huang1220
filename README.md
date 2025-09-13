@@ -94,7 +94,7 @@
 <!-- ### 分割线 ### -->
 <img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
- <div align="center">
+<div align="center">
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=flat" /></sapn>
@@ -127,6 +127,29 @@
 <!-- <span><img src="" /></sapn> -->
 
 <img src="https://skillicons.dev/icons?i=ae,anaconda,apple,arduino,au,c,cpp,cs,clion,cloudflare,cmake,css,django,docker,fastapi,gcp,git,github,gitlab,gmail,go,gtk,html,ai,java,js,jquery,kali,linux,md,matlab,mysql,nginx,nodejs,npm,opencv,ps,php,powershell,pr,pycharm,py,pytorch,qt,raspberrypi,sqlite,stackoverflow,sklearn,selenium,svg,tensorflow,twitter,ts,ubuntu,unity,visualstudio,vscode,vue,webstorm,windows,wordpress&perline=16" />
+
+<div>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+</div>
+<div>
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 0px;" />
+</div>
 
 </div>
 
