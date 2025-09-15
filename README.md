@@ -116,8 +116,8 @@
 <!-- ### 分割线 ### -->
 <img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
+<div align="center" >
 <div>
-
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" /></sapn>
@@ -131,7 +131,7 @@
 <span><img src="https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" /></sapn>
-<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat" /></sapn> | 
+<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat" /></sapn>&emsp;
 <span><img src="https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Huawei-FF0000?logo=huawei&logoColor=fff&style=flat" /></sapn>
@@ -145,9 +145,9 @@
 <span><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat" /></sapn>
 <!-- <span><img src="" /></sapn> -->
-
+</div>
 <img src="https://skillicons.dev/icons?i=ae,anaconda,apple,arduino,au,c,cpp,cs,clion,cloudflare,cmake,css,django,docker,fastapi,gcp,git,github,gitlab,gmail,go,gtk,html,ai,java,js,jquery,kali,linux,md,matlab,mysql,nginx,nodejs,npm,opencv,ps,php,powershell,pr,pycharm,py,pytorch,qt,raspberrypi,sqlite,stackoverflow,sklearn,selenium,svg,tensorflow,twitter,ts,ubuntu,unity,visualstudio,vscode,vue,webstorm,windows,wordpress&perline=16" />
-
+<div align="center" >
 <div>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
@@ -172,7 +172,7 @@
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 0px;" />
 </div>
-
+</div>
 </div>
 
 <!-- ### 分割线 ### -->
