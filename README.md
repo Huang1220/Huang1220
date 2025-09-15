@@ -33,7 +33,7 @@
 <p align="center">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake-dark.svg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake.svg" />
    <img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake-dark.svg" />
  </picture>
 </p>
@@ -270,7 +270,7 @@ Windows                  29 hrs 58 mins      ███████████�
   </picture>
  </a>
 
-|[![Huang1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Huang1220#gh-light-mode-only)[![Huang1220's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/Huang1220#gh-dark-mode-only)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10)](https://github.com/Huang1220#gh-light-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10&theme=tokyonight)](https://github.com/Huang1220#gh-dark-mode-only)|
+|<a href="https://github.com/Huang1220"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" /></picture></a>|<a href="https://github.com/Huang1220"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10&theme=tokyonight" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10&theme=tokyonight" /></picture></a>|
 |---|---|
 
 <div>
@@ -293,16 +293,15 @@ Windows                  29 hrs 58 mins      ███████████�
 
 <table>
   <tr>
-    <td><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://wakatime.com/share/@Huang1220/97e8c303-755b-4a30-92da-3d778450f13b.svg" width="500" alt="Wakatime"/></a><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://wakatime.com/share/@Huang1220/3636f84a-9764-43ed-8792-d00b28b4f1c4.svg" width="500" alt="Wakatime"/></a></td>
-    <td><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://wakatime.com/share/@Huang1220/94ca53f6-f4f8-4082-ab11-29c0a2244320.svg" width="500" alt="Wakatime"/></a><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://wakatime.com/share/@Huang1220/0b620d39-6b4a-4429-a467-c3e1cea15333.svg" width="500" alt="Wakatime"/></a></td>
+    <td><a href="https://wakatime.com/@Huang1220"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Huang1220/3636f84a-9764-43ed-8792-d00b28b4f1c4.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Huang1220/97e8c303-755b-4a30-92da-3d778450f13b.svg" /><img src="https://wakatime.com/share/@Huang1220/3636f84a-9764-43ed-8792-d00b28b4f1c4.svg" width="500" alt="Wakatime"/></picture></a></td>
+    <td><a href="https://wakatime.com/@Huang1220"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@Huang1220/0b620d39-6b4a-4429-a467-c3e1cea15333.svg" /><source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@Huang1220/94ca53f6-f4f8-4082-ab11-29c0a2244320.svg" /><img src="https://wakatime.com/share/@Huang1220/0b620d39-6b4a-4429-a467-c3e1cea15333.svg" width="500" alt="Wakatime"/></picture></a></td>
   </tr>
 </table>
 
 <!-- ### 分割线 ### -->
 <img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
-<td><a href="https://github.com/Huang1220#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/profile-3d-contrib/profile-gitblock.svg" alt=""></img></a></td>
-<td><a href="https://github.com/Huang1220#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/profile-3d-contrib/profile-night-rainbow.svg" alt=""></img></a></td>
+<td><a href="https://github.com/Huang1220"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huang1220/Huang1220/main/profile-3d-contrib/profile-night-rainbow.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huang1220/Huang1220/main/profile-3d-contrib/profile-gitblock.svg" /><img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/profile-3d-contrib/profile-night-rainbow.svg" alt=""/></picture></a></td>
 
 <!-- ### 分割线 ### -->
 <img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
