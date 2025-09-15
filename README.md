@@ -270,26 +270,56 @@ Windows                  29 hrs 58 mins      ███████████�
   </picture>
  </a>
 
-| <a href="https://github.com/Huang1220"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=tokyonight" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=tokyonight" /></picture></a> | <a href="https://github.com/Huang1220"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10&theme=tokyonight" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10&theme=tokyonight" /></picture></a> |
-|---|---|
-
-<div>
-<a href="https://github.com/Huang1220">
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220" />
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220&theme=tokyonight" />
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220" />
- </picture></a></div>
-
-<div>
-<a href="https://github.com/Huang1220/sensitive-word-detection">
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3" />
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3&theme=tokyonight" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3" />
- </picture></a></div>
-
-</div>
+<table>
+ <tr>
+  <td align="center">
+   <a href="https://github.com/Huang1220">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=tokyonight" />
+     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Huang1220&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=tokyonight" />
+    </picture>
+   </a>
+   <img width="900" height="1" alt="">
+  </td>
+  <td align="center">
+   <a href="https://github.com/Huang1220">
+    <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10&theme=tokyonight" />
+     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang1220&langs_count=10&theme=tokyonight" />
+    </picture>
+   </a>
+   <img width="900" height="1" alt="">
+  </td>
+  </tr>
+ <tr>
+  <td colspan="2" align="center">
+  <div>
+  <a href="https://github.com/Huang1220">
+  <picture>
+     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220" />
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220&theme=tokyonight" />
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220" />
+   </picture>
+  </a>
+  </div>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" align="center">
+   <div>
+   <a href="https://github.com/Huang1220/sensitive-word-detection">
+   <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huang1220&repo=sensitive-word-detection&show_owner=true&description_lines_count=3" />
+    </picture>
+   </a>
+   </div>
+  </td>
+ </tr>
+</table>
 
 <table>
   <tr>
