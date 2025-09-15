@@ -116,7 +116,7 @@
 <!-- ### 分割线 ### -->
 <img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
 
-<div align="center">
+<div>
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=flat" /></sapn>
@@ -131,9 +131,7 @@
 <span><img src="https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" /></sapn>
-<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat" /></sapn>
-<!-- <span><img src="" /></sapn> -->
-
+<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat" /></sapn> | 
 <span><img src="https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=fff&style=flat" /></sapn>
 <span><img src="https://img.shields.io/badge/Huawei-FF0000?logo=huawei&logoColor=fff&style=flat" /></sapn>
@@ -159,9 +157,9 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
 </div>
 <div>
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 21px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
@@ -169,6 +167,8 @@
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
 <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 21px;" />
 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 0px;" />
+</div>
+<div>
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 21px; margin-bottom: 0px;" />
 </div>
