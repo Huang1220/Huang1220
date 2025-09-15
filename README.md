@@ -6,15 +6,12 @@
 > [!WARNING]
 > 如果想看到所有内容还需要等待加载，网络经常波动请谅解，如果看到表格出现过宽的问题请重新加载页面。
 
-<div align="center">
-    <p align="center"><a href="https://github.com/Huang1220"><img
-                src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0043F7&center=true&vCenter=true&random=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFNeutron+Star%EF%BC%81;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81;%E4%B8%80%E8%B5%B7%E7%94%A8%E4%BB%A3%E7%A0%81%E5%88%9B%E9%80%A0%E4%B8%96%E7%95%8C%EF%BC%81;%E8%81%94%E7%B3%BB%E6%88%91%EF%BC%8C%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%90%A7%EF%BC%81"
-                alt="Typing SVG" /></a></p>
 
+<div align="center">
+    <p align="center"><a href="https://github.com/Huang1220"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0043F7&center=true&vCenter=true&random=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFNeutron+Star%EF%BC%81;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81;%E4%B8%80%E8%B5%B7%E7%94%A8%E4%BB%A3%E7%A0%81%E5%88%9B%E9%80%A0%E4%B8%96%E7%95%8C%EF%BC%81;%E8%81%94%E7%B3%BB%E6%88%91%EF%BC%8C%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%90%A7%EF%BC%81" alt="Typing SVG" /></a></p>
     <p align="center"><a href="https://github.com/Huang1220"><img
                 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=03B54A&center=true&vCenter=true&random=true&width=600&height=30&lines=%E6%88%91%E7%9A%84+main()+%E5%87%BD%E6%95%B0%E9%87%8C%E4%BD%8F%E7%9D%80%E4%B8%80%E5%8F%AA%E8%96%9B%E5%AE%9A%E8%B0%94%E7%9A%84%E7%8C%AB%EF%BC%8C%E7%9B%B4%E5%88%B0%E6%88%91%E8%BF%90%E8%A1%8C%E6%89%8D%E7%9F%A5%E9%81%93%E5%AE%83%E6%AD%BB%E6%B2%A1%E6%AD%BB%EF%BC%88%E7%A8%8B%E5%BA%8F%E5%B4%A9%E6%B2%A1%E5%B4%A9%EF%BC%89%E3%80%82;%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE%E8%AF%BB%E8%B5%B7%E6%9D%A5%E5%83%8F%E5%A4%A9%E4%B9%A6%EF%BC%8C%E4%BD%86%E6%88%91%E7%AD%BE%E7%9A%84%E6%97%B6%E5%80%99%E6%84%9F%E8%A7%89%E5%83%8F%E5%9C%A8%E5%8F%AC%E5%94%A4%E5%85%8B%E8%8B%8F%E9%B2%81%E3%80%82;%E6%88%91%E7%9A%84TODO%E5%88%97%E8%A1%A8%EF%BC%8C%E6%98%AF%E5%94%AF%E4%B8%80%E6%AF%94%E6%88%91%E4%BB%A3%E7%A0%81%E6%9B%B4%E9%95%BF%E7%9A%84%E4%B8%9C%E8%A5%BF%E3%80%82;%E8%B0%83%E8%AF%95%E6%97%B6%EF%BC%8C%E6%88%91%E5%AF%B9%E7%9D%80%E6%98%BE%E7%A4%BA%E5%99%A8%E5%93%88%E6%B0%94%EF%BC%8C%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%A0%B7%E8%83%BD%E7%BB%99CPU%E9%99%8D%E6%B8%A9%E3%80%82;%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E7%9A%84%E7%A8%8B%E5%BA%8F%E9%9C%80%E8%A6%81%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BE%9D%E8%B5%96%EF%BC%9F%E5%9B%A0%E4%B8%BA%E5%AE%83%E5%BE%88%E2%80%9C%E7%A4%BE%E6%81%90%E2%80%9D%EF%BC%8C%E7%A6%BB%E4%B8%8D%E5%BC%80%E6%9C%8B%E5%8F%8B%EF%BC%88%E5%BA%93%EF%BC%89%E3%80%82;%E6%88%91%E7%9A%84IDE%E6%8F%90%E7%A4%BA%E5%86%85%E5%AD%98%E4%B8%8D%E8%B6%B3%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E5%A4%AA%E5%8D%A0%E7%A9%BA%E9%97%B4%E3%80%82;%E6%88%91%E7%9A%84%2Ftmp%E7%9B%AE%E5%BD%95%EF%BC%8C%E6%98%AF%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91%E7%9A%84%E6%94%B6%E5%AE%B9%E6%89%80%EF%BC%8C%E4%BB%80%E4%B9%88%E6%96%87%E4%BB%B6%E9%83%BD%E6%95%A2%E5%BE%80%E9%87%8C%E5%A1%9E%E3%80%82;%E6%88%91%E7%9A%84~%2F.bashrc+%E6%96%87%E4%BB%B6%EF%BC%8C%E9%95%BF%E5%BE%97%E5%83%8F%E3%80%8A%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC%E3%80%8B%E7%9A%84%E5%AE%B6%E8%B0%B1%E3%80%82;%E6%8A%A5%E9%94%99%E4%BF%A1%E6%81%AF%E8%AF%B4%E2%80%9CSegmentation+fault%E2%80%9D%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E5%AE%83%E6%98%AF%E5%9C%A8%E8%AF%84%E4%BB%B7%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%84%E5%88%92%E3%80%82;%E6%88%91%E7%9A%84%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98%E8%BD%B4%E4%BD%93%EF%BC%8C%E5%8F%91%E5%87%BA%E7%9A%84%E5%A3%B0%E9%9F%B3%E8%83%BD%E8%AE%A9%E6%A5%BC%E4%B8%8B%E9%82%BB%E5%B1%85%E6%8A%A5%E8%AD%A6%EF%BC%88%E8%AF%AF%EF%BC%89%E3%80%82;%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%8F%E5%91%98%E5%96%9C%E6%AC%A2%E6%9A%97%E8%89%B2%E4%B8%BB%E9%A2%98%EF%BC%9F%E5%9B%A0%E4%B8%BA%E5%85%89%E4%BC%9A%E4%BC%A4%E5%AE%B3%E6%88%91%E4%BB%AC%E8%8B%8D%E7%99%BD%E7%9A%84%E7%9A%AE%E8%82%A4%E5%92%8C%E6%95%8F%E6%84%9F%E7%9A%84%E7%81%B5%E9%AD%82%E3%80%82;%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%9A%84Issue%E5%8C%BA%EF%BC%8C%E6%98%AF%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E4%B8%8E%E7%8E%B0%E5%AE%9Ebug%E7%9A%84%E8%A7%92%E6%96%97%E5%9C%BA%E3%80%82;%E6%88%91%E7%9A%84%24PATH%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%EF%BC%8C%E6%98%AF%E4%B8%80%E5%BC%A0%E9%80%9A%E5%BE%80%E6%9C%AA%E7%9F%A5%E9%A2%86%E5%9F%9F%E7%9A%84%E8%97%8F%E5%AE%9D%E5%9B%BE%EF%BC%88%E7%BB%8F%E5%B8%B8%E8%BF%B7%E8%B7%AF%EF%BC%89%E3%80%82;Ctrl%2BC%2C+Ctrl%2BV+%E6%98%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%AF%8D%E8%AF%AD%EF%BC%8CCtrl%2BZ+%E6%98%AF%E5%90%8E%E6%82%94%E8%8D%AF%E3%80%82;%E6%8A%A5%E9%94%99%E8%AF%B4%E2%80%9CPermission+denied%E2%80%9D%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9C%A8%E5%AD%A6%E3%80%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E3%80%8B%E8%AF%B4%E8%AF%9D%E3%80%82"
                 alt="Typing SVG" /></a></p>
-
     <!-- knock code pictures 敲代码的图片 -->
     <picture>
         <source media="(prefers-color-scheme: dark)"
@@ -23,7 +20,6 @@
             srcset="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/developer.svg" height="225px" />
         <img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/coding.gif" />
     </picture>
-
     <div align="center">
         <a href="https://x.com/HGongfu9752"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
         <a href="https://www.youtube.com/@neutron1220"><img
@@ -38,9 +34,7 @@
         <!-- wakatime -->
         <a href="https://wakatime.com/@Huang1220"><img
                 src="https://wakatime.com/badge/user/4275f780-d909-44cc-a95a-a9b8776366c6.svg" /></a>
-
     </div>
-
     <p align="center">
         <picture>
             <source media="(prefers-color-scheme: dark)"
@@ -51,7 +45,6 @@
                 src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/github-contribution-grid-snake-dark.svg" />
         </picture>
     </p>
-
 </div>
 
 <!-- ### 分割线 ### -->
@@ -60,15 +53,13 @@
 # 🙋 Hello
 
 <table>
-
     <tr>
         <td>
+            
+### 🤺 About Me
 
-            ### 🤺 About Me
-
-            <img align="right" width="120"
+<img align="right" width="120"
                 src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/others/leijun.jpg" />
-
             <p>&emsp;&emsp;你好，我是Neutron Star。喜欢编程、摄影、打羽毛球，对软硬件非常感兴趣。</p>
             <p>&emsp;&emsp;喜欢计算机科学和 IT 互联网事业，同时喜欢开源社区氛围，希望能成为一名优秀的开源社区开发者。</p>
             <p>&emsp;&emsp;如右图所示，我的偶像是雷军，一方面我想创业，另一方面我沉迷于技术。</p>
@@ -78,52 +69,46 @@
             <img width="1800" height="1" alt="">
         </td>
     </tr>
-
     <tr>
         <td>
+        
+### 🏢 Work Experience
 
-            ### 🏢 Work Experience
-
-            &emsp;&emsp;暂无
+&emsp;&emsp;暂无
             <!-- for beauty 留个空行 -->
             <div>&nbsp;</div>
-
-
         </td>
     </tr>
-
     <tr>
         <td>
 
-            ### 📃 Study Experience
-
-            <img align="right" width="70"
+### 📃 Study Experience
+    
+<img align="right" width="70"
                 src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/school/NJU.png" />
 
-            - [南京大学](https://www.nju.edu.cn/) &emsp; 📍 江苏·南京 &emsp; 📌 2024-09-01 -- Now
+- [南京大学](https://www.nju.edu.cn/) &emsp; 📍 江苏·南京 &emsp; 📌 2024-09-01 -- Now
 
-            - 学院：地理与海洋科学学院
-            - 专业：地理信息(意向)
-            - <details>
-                <summary>详细信息</summary>
-                <p>正在维护中</p>
-            </details>
-
-            <img align="right" width="70"
+- 学院：地理与海洋科学学院
+- 专业：地理信息(意向)
+- <details>
+    <summary>详细信息</summary>
+    <p>正在维护中</p>
+</details>
+            
+<img align="right" width="70"
                 src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/school/liangfeng.png" />
 
-            - [江苏省梁丰高级中学](https://jslfgz.zjgedu.cn/) &emsp; 📍 江苏·张家港 &emsp; 📌 2021-09-01 -- 2024-06-31
+- [江苏省梁丰高级中学](https://jslfgz.zjgedu.cn/) &emsp; 📍 江苏·张家港 &emsp; 📌 2021-09-01 -- 2024-06-31
 
-            - 高考选课：物理-化学-生物
-            - 班级：15班(创优班)
-            - <details>
-                <summary>详细信息</summary>
-                <p>正在维护中</p>
-            </details>
-
+- 高考选课：物理-化学-生物
+- 班级：15班(创优班)
+- <details>
+    <summary>详细信息</summary>
+    <p>正在维护中</p>
+</details>
             <!-- for beauty 留个空行 -->
             <div>&nbsp;</div>
-
         </td>
     </tr>
 </table>
@@ -198,7 +183,6 @@
 <table>
     <tr>
         <td>
-
             <picture>
                 <source
                     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
@@ -209,60 +193,58 @@
                 <img
                     src="https://github-readme-stats.vercel.app/api/wakatime?username=Huang1220&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
             </picture>
-
             <img width="1800" height="1" alt="">
         </td>
     </tr>
     <tr>
         <td>
+<!--START_SECTION:waka-->
+**I'm a Night 🦉**
 
-            <!--START_SECTION:waka-->
-            **I'm a Night 🦉**
+```text
+🌞 Morning 30 commits ████░░░░░░░░░░░░░░░░░░░░░ 16.30 %
+🌆 Daytime 32 commits ████░░░░░░░░░░░░░░░░░░░░░ 17.39 %
+🌃 Evening 81 commits ███████████░░░░░░░░░░░░░░ 44.02 %
+🌙 Night 41 commits ██████░░░░░░░░░░░░░░░░░░░ 22.28 %
+```
+📅 **I'm Most Productive on Friday**
 
-            ```text
-            🌞 Morning 30 commits ████░░░░░░░░░░░░░░░░░░░░░ 16.30 %
-            🌆 Daytime 32 commits ████░░░░░░░░░░░░░░░░░░░░░ 17.39 %
-            🌃 Evening 81 commits ███████████░░░░░░░░░░░░░░ 44.02 %
-            🌙 Night 41 commits ██████░░░░░░░░░░░░░░░░░░░ 22.28 %
-            ```
-            📅 **I'm Most Productive on Friday**
-
-            ```text
-            Monday 12 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 06.52 %
-            Tuesday 16 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 08.70 %
-            Wednesday 29 commits ████░░░░░░░░░░░░░░░░░░░░░ 15.76 %
-            Thursday 28 commits ████░░░░░░░░░░░░░░░░░░░░░ 15.22 %
-            Friday 50 commits ███████░░░░░░░░░░░░░░░░░░ 27.17 %
-            Saturday 35 commits █████░░░░░░░░░░░░░░░░░░░░ 19.02 %
-            Sunday 14 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 07.61 %
-            ```
-
-
-            📊 **This Week I Spent My Time On**
-
-            ```text
-            🕑︎ Time Zone: Asia/Shanghai
-
-            💬 Programming Languages:
-            Other 18 hrs 3 mins ███████████████░░░░░░░░░░ 60.22 %
-            Markdown 8 hrs 17 mins ███████░░░░░░░░░░░░░░░░░░ 27.63 %
-            YAML 1 hr 47 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 05.96 %
-            Python 1 hr 37 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 05.45 %
-            SVG 7 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.39 %
-
-            🔥 Editors:
-            Chrome 29 hrs 31 mins █████████████████████████ 98.46 %
-            VS Code 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 01.54 %
-
-            💻 Operating System:
-            Windows 29 hrs 58 mins █████████████████████████ 100.00 %
-            ```
+```text
+Monday 12 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 06.52 %
+Tuesday 16 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 08.70 %
+Wednesday 29 commits ████░░░░░░░░░░░░░░░░░░░░░ 15.76 %
+Thursday 28 commits ████░░░░░░░░░░░░░░░░░░░░░ 15.22 %
+Friday 50 commits ███████░░░░░░░░░░░░░░░░░░ 27.17 %
+Saturday 35 commits █████░░░░░░░░░░░░░░░░░░░░ 19.02 %
+Sunday 14 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 07.61 %
+```
 
 
-            Last Updated on 15/09/2025 06:14:56 UTC
-            <!--END_SECTION:waka-->
+📊 **This Week I Spent My Time On**
 
-        </td>
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages:
+Other 18 hrs 3 mins ███████████████░░░░░░░░░░ 60.22 %
+Markdown 8 hrs 17 mins ███████░░░░░░░░░░░░░░░░░░ 27.63 %
+YAML 1 hr 47 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 05.96 %
+Python 1 hr 37 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 05.45 %
+SVG 7 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.39 %
+
+🔥 Editors:
+Chrome 29 hrs 31 mins █████████████████████████ 98.46 %
+VS Code 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 01.54 %
+
+💻 Operating System:
+Windows 29 hrs 58 mins █████████████████████████ 100.00 %
+```
+
+
+Last Updated on 15/09/2025 06:14:56 UTC
+
+<!--END_SECTION:waka-->
+</td>
     </tr>
 </table>
 
@@ -272,27 +254,35 @@
 <div align="center">
 
 
-    <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-    |<img position="absolute" align="left" width="140px"
-        src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />|<picture align="center">
-        <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
-        <source media="(prefers-color-scheme: light)"
-            srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
-    </picture>|<img position="absolute" align="right" width="140px"
-        src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" />|
-    |---|---|---|
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
-
+<table>
+    <tr>
+        <td>
+            <img position="absolute" align="left" width="140px" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_left.png" />
+        </td>
+        <td>
+            <picture align="center">  
+                <source media="(prefers-color-scheme: dark)"
+                    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
+                <source media="(prefers-color-scheme: light)"
+                    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=light&hide_border=true" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huang1220&theme=dark&hide_border=true" />
+            </picture>
+        </td>
+        <td>
+            <img position="absolute" align="right" width="140px" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/c_right.png" />
+        </td>
+    </tr>
+</table>
     <div>
         <img src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/metrics/classic.svg">
     </div>
 </div>
 
 #### 徽章
-<div align="center">
 
+<div align="center">
     <a href="https://github.com/Huang1220">
         <picture>
             <source media="(prefers-color-scheme: dark)"
@@ -302,7 +292,6 @@
             <img src="https://github-profile-trophy.vercel.app/?username=Huang1220&theme=onedark&column=-1" />
         </picture>
     </a>
-
     <a href="https://github.com/Huang1220">
         <picture>
             <source media="(prefers-color-scheme: dark)"
@@ -312,7 +301,6 @@
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huang1220&theme=xcode" />
         </picture>
     </a>
-
     <table>
         <tr>
             <td align="center">
@@ -374,7 +362,6 @@
             </td>
         </tr>
     </table>
-
     <table>
         <tr>
             <td><a href="https://wakatime.com/@Huang1220">
@@ -399,10 +386,8 @@
                 </a></td>
         </tr>
     </table>
-
     <!-- ### 分割线 ### -->
     <img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
-
     <td><a href="https://github.com/Huang1220">
             <picture>
                 <source media="(prefers-color-scheme: dark)"
@@ -413,10 +398,8 @@
                     alt="" />
             </picture>
         </a></td>
-
     <!-- ### 分割线 ### -->
     <img width="200%" src="https://raw.githubusercontent.com/Huang1220/Huang1220/main/assets/line.gif">
-
     <table>
         <tr>
             <th colspan="2" align="center">
