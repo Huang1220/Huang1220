@@ -11,9 +11,11 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment: 
+      name: metrics
     steps:
       - name: This repo has x stars y forks
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v3
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           template: "✨ Huang1220's profile with <starCount> stars and <forkCount> forks 🎉"
