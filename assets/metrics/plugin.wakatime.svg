@@ -61,22 +61,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">grab-the-venue-main</span>
-                                <div class="bar" style="width: 47.288%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">59%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">test_</span>
-                                <div class="bar" style="width: 22.976%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">29%</span>
+                                <div class="bar" style="width: 41.488%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">auto-nju-xk-main</span>
-                                <div class="bar" style="width: 9.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 23.4%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">test_</span>
+                                <div class="bar" style="width: 15.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Clash</span>
-                                <div class="bar" style="width: 0.05600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.047999999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -86,12 +86,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 79.608%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.65599999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
