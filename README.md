@@ -228,20 +228,20 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 50 mins      █████████████████████████   98.62 % 
-C++                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    19 hrs 25 mins      ███████████████████████░░   92.79 % 
+Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+C++                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 50 mins      █████████████████████████   98.62 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Chrome                   19 hrs 25 mins      ███████████████████████░░   92.78 % 
+VS Code                  1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 💻 Operating System: 
-Windows                  19 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/03/2026 12:43:00 UTC
+ Last Updated on 12/03/2026 18:51:04 UTC
 <!--END_SECTION:waka-->
 </td>
     </tr>
