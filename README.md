@@ -228,22 +228,22 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 56 mins      ███████████████████████░░   90.30 % 
-C++                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    18 hrs 5 mins       ██████████████████████░░░   89.41 % 
+C++                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 56 mins      ███████████████████████░░   90.29 % 
-VS Code                  2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Chrome                   18 hrs 4 mins       ██████████████████████░░░   89.40 % 
+VS Code                  2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 
 💻 Operating System: 
-Windows                  22 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 12:55:00 UTC
+ Last Updated on 16/03/2026 18:58:59 UTC
 <!--END_SECTION:waka-->
 </td>
     </tr>
