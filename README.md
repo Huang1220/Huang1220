@@ -204,21 +204,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                353 commits         ███████████████░░░░░░░░░░   60.45 % 
-🌆 Daytime                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-🌃 Evening                95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+🌞 Morning                356 commits         ███████████████░░░░░░░░░░   60.34 % 
+🌆 Daytime                95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+🌃 Evening                95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Tuesday                  71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Thursday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Saturday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Tuesday                  71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Thursday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Friday                   112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Sunday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 ```
 
 
@@ -228,22 +228,20 @@ Sunday                   68 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 7 mins       ███████████████████████░░   93.74 % 
-C++                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    18 hrs 18 mins      ████████████████████████░   96.07 % 
+C++                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 7 mins       ███████████████████████░░   93.77 % 
-VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Chrome                   18 hrs 23 mins      ████████████████████████░   96.49 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Windows                  20 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/03/2026 12:44:06 UTC
+ Last Updated on 23/03/2026 12:51:39 UTC
 <!--END_SECTION:waka-->
 </td>
     </tr>
