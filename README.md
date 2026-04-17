@@ -201,47 +201,8 @@
         <td>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                387 commits         ███████████████░░░░░░░░░░   60.47 % 
-🌆 Daytime                113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-🌃 Evening                95 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-🌙 Night                  45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Tuesday                  79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Wednesday                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Friday                   120 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Saturday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    28 hrs 2 mins       ████████████████████████░   95.77 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-C++                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-
-🔥 Editors: 
-Chrome                   28 hrs 17 mins      ████████████████████████░   96.59 % 
-VS Code                  59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-
-💻 Operating System: 
-Windows                  29 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/04/2026 13:05:31 UTC
+ Last Updated on 17/04/2026 18:54:24 UTC
 <!--END_SECTION:waka-->
 </td>
     </tr>
