@@ -228,22 +228,22 @@ Sunday                   88 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 58 mins      █████████████████████████   98.25 % 
-C++                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-CMake                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    14 hrs 55 mins      █████████████████████████   98.13 % 
+C++                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+CMake                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 58 mins      █████████████████████████   98.25 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Chrome                   14 hrs 55 mins      █████████████████████████   98.13 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Windows                  16 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/05/2026 14:49:24 UTC
+ Last Updated on 29/05/2026 20:20:30 UTC
 <!--END_SECTION:waka-->
 </td>
     </tr>
