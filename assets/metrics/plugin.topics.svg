@@ -23,8 +23,8 @@
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="An API (Application Programming Interface) is a collection of protocols and subroutines for building software.">api</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
-                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
+                            <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
                             <div class="label" title="npm is a package manager for JavaScript included with Node.js.">npm</div>
                         </div>
