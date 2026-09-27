@@ -228,16 +228,16 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 33 mins       ███████████████████████░░   90.74 % 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Other                    2 hrs 26 mins       ██████████████████████░░░   87.11 % 
+Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 33 mins       ███████████████████████░░   90.74 % 
-VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Chrome                   2 hrs 26 mins       ██████████████████████░░░   87.11 % 
+VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       █████████████████████░░░░   84.09 % 
-Windows                  37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Mac                      2 hrs 11 mins       ███████████████████░░░░░░   77.84 % 
+Windows                  37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -247,7 +247,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/09/2026 16:12:58 UTC
+ Last Updated on 27/09/2026 20:46:34 UTC
 <!--END_SECTION:waka-->
 </td>
     </tr>
